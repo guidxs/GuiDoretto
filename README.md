@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34495E&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ECF0F1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Doretto+Sobreiro;I'm+18+years+old;I'm+from+Brasil,+SP;I'm+studying+Software+Engineer+at+FIAP;Welcome+To+My+Profile!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ECF0F1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Doretto+Sobreiro;I'm+18+years+old;I'm+from+Brazil,+SP;I'm+studying+Software+Engineer+at+FIAP;Welcome+To+My+Profile!:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuiDoretto&show_icons=true&count_private=true&hide_border=true&title_color=ECF0F1&icon_color=F4D03F&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Doretto Sobreiro github stats" /> 

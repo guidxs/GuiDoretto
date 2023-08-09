@@ -6,10 +6,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuiDoretto&show_icons=true&count_private=true&hide_border=true&title_color=ECF0F1&icon_color=F4D03F&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Doretto Sobreiro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiDoretto&layout=compact&hide_border=true&title_color=ECF0F1&text_color=ECF0F1&bg_color=0d1117" />
 </div>
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuiDoretto&theme=react)
-
-
+<br><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guilhermedoretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermedoretto" height="30" width="40" /></a>
